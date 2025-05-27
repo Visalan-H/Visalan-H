@@ -1,5 +1,5 @@
 # About:
-MERN Stack Developer<br><br>=> Currently Learning Machine Learning, React Three Fiber and React Native.<br>=> Jesus turned Water into Wine, I turn Caffeine into Code.<br>=> Open to Collaborations! Let's turn 404s to 200s✨.
+MERN Stack Developer<br><br>=> Currently Learning Machine Learning.<br>=> Jesus turned Water into Wine, I turn Caffeine into Code.<br>=> Open to Collaborations! Let's turn 404s to 200s✨.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_visalan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visalan-h) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Visalan-H-the-selector) 
