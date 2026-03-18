@@ -9,6 +9,7 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
+| [Echo (collab)](https://github.com/Visalan-H/echo) | Auto-tracks job applications by scanning your Gmail for updates | [echo-job.vercel.app](https://echo-job.vercel.app) |
 | [Trackify (collab)](https://github.com/arbasil05/trackify) | Semester credit + CGPA tracker used by 800+ students to monitor academic progress | [trackify.arbasil.me](https://trackify.arbasil.me) |
 | [npx-resume](https://github.com/Visalan-H/npx-resume) | Show your resume in the terminal with a single `npx` command | [showresume.vercel.app](https://showresume.vercel.app) |
 | [sharehtml](https://github.com/Visalan-H/sharehtml) | Organize & share AI-generated HTML files — group by project, preview instantly, share read-only links | [sharehtml.vercel.app](https://sharehtml.vercel.app) |
