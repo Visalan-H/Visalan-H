@@ -9,6 +9,7 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
+| [Flames](https://flamesss.vercel.app/) |  The FLAMES calculator you played on paper in school, now on the internet. | [flamesss.vercel.app](https://flamesss.vercel.app) |
 | [Echo (collab)](https://github.com/Visalan-H/echo) | Auto-tracks job applications by scanning your Gmail for updates | [echo-job.vercel.app](https://echo-job.vercel.app) |
 | [Trackify (collab)](https://github.com/arbasil05/trackify) | Semester credit + CGPA tracker used by 800+ students to monitor academic progress | [trackify.arbasil.me](https://trackify.arbasil.me) |
 | [npx-resume](https://github.com/Visalan-H/npx-resume) | Show your resume in the terminal with a single `npx` command | [showresume.vercel.app](https://showresume.vercel.app) |
