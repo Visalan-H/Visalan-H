@@ -44,6 +44,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [Audio-Focus](https://github.com/Visalan-H/audio-focus) |  Automatically silences or ducks every background tab so the one you're focused on stays at full volume. |
 | [Leetcode-CmdK](https://github.com/Visalan-H/Leetcode-CmdK) | Adds Cmd+K to LeetCode for searching and inserting Java & C++ snippets |
 | [Fasterr](https://github.com/Visalan-H/Fasterr) | Increase YouTube video speed beyond 2x |
 | [GFormFiller](https://github.com/Visalan-H/GFormFiller) | Auto-fill Google Forms |
