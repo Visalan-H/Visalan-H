@@ -42,10 +42,11 @@
 ## Extensions
 <br>
 
-| Project | Description |
+| Extension | Description |
 |---------|-------------|
-| [Audio-Focus](https://github.com/Visalan-H/audio-focus) |  Automatically silences or ducks every background tab so the one you're focused on stays at full volume. |
-| [Leetcode-CmdK](https://github.com/Visalan-H/Leetcode-CmdK) | Adds Cmd+K to LeetCode for searching and inserting Java & C++ snippets |
-| [Fasterr](https://github.com/Visalan-H/Fasterr) | Increase YouTube video speed beyond 2x |
-| [GFormFiller](https://github.com/Visalan-H/GFormFiller) | Auto-fill Google Forms |
-| [JustResults](https://github.com/Visalan-H/JustResults) | Fast, clean result lookup — no noise, just your results | — |
+| [CodeFocus](https://github.com/Visalan-H/codefocus) | Turns Codeforces into a full coding environment with a split-view editor, sample runner, one-click submit, and per-problem sketchpad. |
+| [Audio-Focus](https://github.com/Visalan-H/audio-focus) | Automatically silences or ducks every background tab so the one you're focused on stays at full volume. |
+| [Leetcode-CmdK](https://github.com/Visalan-H/Leetcode-CmdK) | Adds Cmd+K to LeetCode for searching and inserting Java & C++ snippets. |
+| [Fasterr](https://github.com/Visalan-H/Fasterr) | Increase YouTube video speed beyond 2×. |
+| [GFormFiller](https://github.com/Visalan-H/GFormFiller) | Auto-fill Google Forms. |
+| [JustResults](https://github.com/Visalan-H/JustResults) | Fast, clean result lookup — no noise, just your results. |
