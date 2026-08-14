@@ -9,6 +9,8 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
+| [Vizzible](https://github.com/Visalan-H/vizzible) | Combines your GitHub, Codeforces, and LeetCode heatmaps into one shareable profile page | [devheat.vercel.app](https://vizzible.vercel.app) |
+| [Bloom](https://github.com/Visalan-H/bloom) | Android app with a living flower that wilts if you skip water and blooms when you drink | [Download APK](https://github.com/Visalan-H/bloom/releases/latest/download/app-arm64-v8a-release.apk) |
 | [Flames](https://flamesss.vercel.app/) |  The FLAMES calculator you played on paper in school, now on the internet. | [flamesss.vercel.app](https://flamesss.vercel.app) |
 | [Echo (collab)](https://github.com/Visalan-H/echo) | Auto-tracks job applications by scanning your Gmail for updates | [echo-job.vercel.app](https://echo-job.vercel.app) |
 | [Trackify (collab)](https://github.com/arbasil05/trackify) | Semester credit + CGPA tracker used by 800+ students to monitor academic progress | [trackify.arbasil.me](https://trackify.arbasil.me) |
