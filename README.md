@@ -9,7 +9,7 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
-| [Vizzible](https://github.com/Visalan-H/vizzible) | One shareable link for your GitHub streak, Codeforces rating, and LeetCode grind — instead of three profiles nobody clicks | [devheat.vercel.app](https://vizzible.vercel.app) |
+| [Vizzible](https://github.com/Visalan-H/vizzible) | One shareable link for your GitHub streak, Codeforces rating, and LeetCode grind — instead of three profiles nobody clicks | [vizzible.vercel.app](https://vizzible.vercel.app) |
 | [Flames](https://flamesss.vercel.app/) |  The FLAMES calculator you played on paper in school, now on the internet. | [flamesss.vercel.app](https://flamesss.vercel.app) |
 | [Echo (collab)](https://github.com/Visalan-H/echo) | Auto-tracks job applications by scanning your Gmail for updates | [echo-job.vercel.app](https://echo-job.vercel.app) |
 | [Trackify (collab)](https://github.com/arbasil05/trackify) | Semester credit + CGPA tracker used by 800+ students to monitor academic progress | [trackify.arbasil.me](https://trackify.arbasil.me) |
