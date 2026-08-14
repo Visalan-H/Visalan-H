@@ -9,8 +9,7 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
-| [Vizzible](https://github.com/Visalan-H/vizzible) | Combines your GitHub, Codeforces, and LeetCode heatmaps into one shareable profile page | [devheat.vercel.app](https://vizzible.vercel.app) |
-| [Bloom](https://github.com/Visalan-H/bloom) | Android app with a living flower that wilts if you skip water and blooms when you drink | [Download APK](https://github.com/Visalan-H/bloom/releases/latest/download/app-arm64-v8a-release.apk) |
+| [Vizzible](https://github.com/Visalan-H/vizzible) | One shareable link for your GitHub streak, Codeforces rating, and LeetCode grind — instead of three profiles nobody clicks | [devheat.vercel.app](https://vizzible.vercel.app) |
 | [Flames](https://flamesss.vercel.app/) |  The FLAMES calculator you played on paper in school, now on the internet. | [flamesss.vercel.app](https://flamesss.vercel.app) |
 | [Echo (collab)](https://github.com/Visalan-H/echo) | Auto-tracks job applications by scanning your Gmail for updates | [echo-job.vercel.app](https://echo-job.vercel.app) |
 | [Trackify (collab)](https://github.com/arbasil05/trackify) | Semester credit + CGPA tracker used by 800+ students to monitor academic progress | [trackify.arbasil.me](https://trackify.arbasil.me) |
@@ -26,6 +25,15 @@
 | [imgxlsx](https://github.com/Visalan-H/imgxlsx) | Convert images to Excel spreadsheets | [imgxlsx.vercel.app](https://imgxlsx.vercel.app) |
 | [resume-roast](https://github.com/Visalan-H/fe-resume-roast) | Upload your resume and get it roasted | [fe-resume-roast.vercel.app](https://fe-resume-roast.vercel.app) |
 | [Vizzkers](https://github.com/Visalan-H/CatApp) | Share your love for cats — upload a pic, add a name, let the world see | [vizzkers.vercel.app](https://vizzkers.vercel.app) |
+
+
+
+## Apps
+<br>
+
+| Project | Description | Get it |
+|---------|-------------|------|
+| [Bloom](https://github.com/Visalan-H/bloom) | Full-screen hydration reminders with a living flower — wilts if you skip water, thrives when you drink | [Download APK](https://github.com/Visalan-H/bloom/releases/latest/download/app-arm64-v8a-release.apk) |
 
 
 
