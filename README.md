@@ -2,13 +2,14 @@
 
 > I build what I wish existed.
 
-[Portfolio](https://visalan.me) · [LinkedIn](https://www.linkedin.com/in/visalan-h-vizz/) 
+[Portfolio](https://visalan.me) · [LinkedIn](https://www.linkedin.com/in/visalan-h-vizz/) · [Vizzible](https://vizzible.vercel.app/Visalan-H)
 
 ## Websites 
 <br>
 
 | Project | Description | Live |
 |---------|-------------|------|
+| [Tagdex](https://github.com/Visalan-H/html-periodic-table) | Every HTML element laid out like the periodic table, with a live demo on each tile | [tagdex.visalan.me](https://tagdex.visalan.me) |
 | [Shadey](https://github.com/Visalan-H/shadey) | Draw on your GitHub contribution graph, preview it on your real graph, then paint it for real | [shadey.vercel.app](https://shadey.vercel.app) |
 | [Idlee](https://github.com/Visalan-H/idlee) | Find the nearest free classroom at my college in seconds | [idlee.visalan.me](https://idlee.visalan.me) |
 | [Vizzible](https://github.com/Visalan-H/vizzible) | One shareable link for your GitHub streak, Codeforces rating, and LeetCode grind, instead of three profiles nobody clicks | [vizzible.vercel.app](https://vizzible.vercel.app) |
